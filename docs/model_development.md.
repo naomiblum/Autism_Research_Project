@@ -1,1 +1,17 @@
+# Model Development
+
+## 📌 1. Selected Machine Learning Models
+### ✅ Random Forest (Feature Importance)
+### ✅ XGBoost (Boosted Decision Trees)
+### ✅ Neural Networks (Deep Learning)
+
+## 📌 2. Model Evaluation
+- Use **Cross-Validation** for accuracy testing.
+- Evaluate performance with **ROC-AUC, Precision, Recall**.
+
+## 📌 3. Training Process
+- Train models on genetic datasets.
+- Fine-tune hyperparameters using **GridSearchCV**.
+
+---
 
