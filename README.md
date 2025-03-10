@@ -1,27 +1,21 @@
-# Autism_Research_Project
+# Autism Research Project
 
-## 📌 Overview
-This project aims to explore the genetic overlap between spatial cognition and autism using machine learning techniques.
+## Overview
 
-## 📌 Repository Structure
-- `docs/` – Documentation and research notes.
-- `logs/` – Experiment results and model performance tracking.
-- `references/` – Academic papers and citations.
-- `autism_project/` – Code for data processing and ML models.
+This project investigates the genetic overlap between high spatial perception abilities and autism. By leveraging synthetic datasets and advanced machine learning models, we aim to identify shared genetic variations, analyze brain structure and function, and predict the relationship between genetics, brain structure, and autism.
 
-## 📌 Installation Guide
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/naomiblum/Autism_Research_Project.git
-Install dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run experiments:
-bash
-Copy
-Edit
-python train_model.py
-📌 Contact
-For questions or collaborations, contact: naomiblum22@gmail.com
+## Progress
+
+### March 10, 2025
+
+**Current Status**:
+- Achieved a success rate of 86.88% with the enhanced models.
+- Enhanced feature engineering, added interaction terms, and applied non-linear transformations.
+- Experimented with advanced algorithms like Random Forest and Gradient Boosting.
+- Integrated primary and secondary pathways to capture functional relationships.
+- Incorporated developmental trajectories and gene-environment interactions.
+
+**Next Steps**:
+- Improve the model to reach a success rate of 92%.
+- Introduce neural networks to further enhance model performance.
+- Propose the use of neural networks in the project for better accuracy and insights.
